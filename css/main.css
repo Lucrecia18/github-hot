@@ -9,7 +9,7 @@
 /* estilos generales */
 
 body{
-    background-color: #ECEEF3;
+    background-color: #1b3883;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -42,7 +42,7 @@ main p{
 }
 
 main .boton{
-    background-color: #51B0DF;
+    background-color: #df51c7;
     padding: 0.6rem;
     margin-top: 1rem;
     box-shadow: 2px 2px 2px black;
